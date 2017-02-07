@@ -6,6 +6,8 @@
 //  Copyright © 2017年 luhai. All rights reserved.
 //
 
+//https://leetcode.com/problems/two-sum/?tab=Description
+
 class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var hash: [Int : Int] = [:]
